@@ -16,7 +16,7 @@ Hi, I'm Sabrina D'Aluisio
 
 Languages and Tools:
 
-<![image](https://user-images.githubusercontent.com/122020565/210770819-87986738-383f-457c-8eac-555f62d4c6b8.png)
+![image](https://user-images.githubusercontent.com/122020565/210770819-87986738-383f-457c-8eac-555f62d4c6b8.png)
 ![image](https://user-images.githubusercontent.com/122020565/210770916-d798036e-3c05-436d-81d6-f5c2f2279330.png)
 ![image](https://user-images.githubusercontent.com/122020565/210770938-45d3afba-c3a1-4f9f-9b32-adfcbeda8b48.png)
 ![image](https://user-images.githubusercontent.com/122020565/210770960-20d1311c-30c1-4fcf-8a94-57f7de95017f.png)
@@ -33,6 +33,6 @@ Languages and Tools:
 ![image](https://user-images.githubusercontent.com/122020565/210771994-4a9d152a-f826-47a7-97e2-42f358e0f580.png)
 ![image](https://user-images.githubusercontent.com/122020565/210772035-6af4c226-3aee-4a8e-9b4b-5b651e804818.png)
 ![image](https://user-images.githubusercontent.com/122020565/210772086-87d6c8cf-508d-48d6-a6b7-ae595457f593.png)
-![image](https://user-images.githubusercontent.com/122020565/210772301-63c8321b-2149-445a-beec-a2af44faadcf.png)> 
+![image](https://user-images.githubusercontent.com/122020565/210772301-63c8321b-2149-445a-beec-a2af44faadcf.png)
 
 
